@@ -4957,7 +4957,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/crash/IdeaProjects/datepicker_NG10/angular-tradedatepicker/example/main.ts */"./example/main.ts");
+module.exports = __webpack_require__(/*! /Users/szilagyigyula/Documents/baxter/angular-tradedatepicker/example/main.ts */"./example/main.ts");
 
 
 /***/ })
