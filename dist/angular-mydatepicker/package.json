@@ -1,0 +1,34 @@
+{
+  "name": "angular-tradedatepicker",
+  "version": "0.10.2",
+  "description": "Angular datepicker and date range picker",
+  "homepage": "https://kekeh.github.io/angular-mydatepicker/",
+  "keywords": [
+    "Angular",
+    "datepicker",
+    "date range picker"
+  ],
+  "author": "Baxter IT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "angular-tradedatepicker"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0"
+  },
+  "main": "bundles/angular-tradedatepicker.umd.js",
+  "module": "fesm5/angular-tradedatepicker.js",
+  "es2015": "fesm2015/angular-tradedatepicker.js",
+  "esm5": "esm5/angular-tradedatepicker.js",
+  "esm2015": "esm2015/angular-tradedatepicker.js",
+  "fesm5": "fesm5/angular-tradedatepicker.js",
+  "fesm2015": "fesm2015/angular-tradedatepicker.js",
+  "typings": "angular-tradedatepicker.d.ts",
+  "metadata": "angular-tradedatepicker.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

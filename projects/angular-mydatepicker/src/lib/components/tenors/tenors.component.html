@@ -1,0 +1,11 @@
+<table class="tbuttons" *ngIf="opts.rightButtons && opts.rightButtons.length > 0">
+  <tr>
+    <td class="buttons-inner d-flex align-items-start flex-column">
+      <div *ngFor="let rows of opts.rightButtons" class="{{rows.style}}">
+            <span *ngFor="let btn of rows.btns">
+            <button title="{{btn.title}}" class="{{btn.style}}" (click)="onBtnClicked(btn.date);$event.stopPropagation()" [disabled]="!btn.date">{{btn.label}}</button>
+            </span>
+      </div>
+    </td>
+  </tr>
+</table>

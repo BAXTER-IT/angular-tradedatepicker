@@ -1,0 +1,21 @@
+{
+  "name": "angular-tradedatepicker",
+  "version": "0.10.2",
+  "description": "Angular datepicker and date range picker",
+  "homepage": "https://kekeh.github.io/angular-mydatepicker/",
+  "keywords": [
+    "Angular",
+    "datepicker",
+    "date range picker"
+  ],
+  "author": "Baxter IT",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "angular-tradedatepicker"
+  },
+  "peerDependencies": {
+    "@angular/common": "^9.0.0",
+    "@angular/core": "^9.0.0"
+  }
+}
