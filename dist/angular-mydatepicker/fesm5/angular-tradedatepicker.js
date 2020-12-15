@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { __read, __values } from 'tslib';
+import { __values, __read } from 'tslib';
 import { NG_VALIDATORS, NG_VALUE_ACCESSOR, FormsModule } from '@angular/forms';
 import { Injectable, Component, ElementRef, ViewEncapsulation, ViewChild, Renderer2, ChangeDetectorRef, HostBinding, EventEmitter, Input, Output, Directive, ViewContainerRef, ComponentFactoryResolver, forwardRef, HostListener, NgModule } from '@angular/core';
 
